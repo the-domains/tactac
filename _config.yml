@@ -1,4 +1,3 @@
-layout_spectrum: 0.523404375417158
 typography_spectrum: 0.9723198786377907
 color:
   brandStrength: 0.8085144376382232
@@ -6,9 +5,11 @@ color:
   saturation: 0.9444201071746647
   rhythmicContrast: 0.9071748743299395
   brandColors:
-    - '#CDCB9E'
-    - '#B59E6E'
-    - '#8D7C62'
-    - '#0D0206'
-    - '#42332D'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+layout_spectrum: 0.523404375417158
 name: tactac
+title: TacTac
